@@ -1,5 +1,7 @@
 # podoc
 
+[![Join the chat at https://gitter.im/podoc/podoc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/podoc/podoc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![podoc](http://www.theturtlesource.com/turtleContainer/unifilusTOP.jpg)](https://en.wikipedia.org/wiki/Podocnemididae)
 
 **This is a work in progress**
